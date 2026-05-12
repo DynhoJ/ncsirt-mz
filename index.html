@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCSIRT - Alertas de Segurança</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Background Elements -->
+    <div class="bg-glow glow-1"></div>
+    <div class="bg-glow glow-2"></div>
+
+
+    <main class="main-content">
+        <section class="hero container">
+            <div class="badge">Atualizações em Tempo Real</div>
+            <h1>Central de <span>Alertas</span> de Segurança</h1>
+            <p>Mantenha-se informado sobre as últimas vulnerabilidades, ameaças e incidentes de segurança cibernética identificados pela nossa equipa de resposta.</p>
+        </section>
+
+        <section class="carousel-section">
+            <div class="carousel-wrapper">
+                <div class="carousel-container">
+                    <button class="carousel-btn prev-btn" id="prevBtn" aria-label="Alerta anterior">
+                        <i class="fa-solid fa-chevron-left"></i>
+                    </button>
+                    
+                    <div class="carousel-track-container" id="trackContainer">
+                        <ul class="carousel-track" id="carouselTrack">
+                            <!-- JS vai injetar os slides aqui -->
+                        </ul>
+                    </div>
+                    
+                    <button class="carousel-btn next-btn" id="nextBtn" aria-label="Próximo alerta">
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </button>
+                </div>
+                
+                <div class="carousel-footer">
+                    <div class="carousel-nav" id="carouselNav">
+                        <!-- JS vai injetar os pontos de navegação aqui -->
+                    </div>
+                    <button class="carousel-pause-btn" id="pauseBtn" aria-label="Pausar carrossel">
+                        <i class="fa-solid fa-pause" id="pauseIcon"></i>
+                    </button>
+                </div>
+            </div>
+        </section>
+        
+        <section class="info-section container">
+            <div class="info-card">
+                <i class="fa-solid fa-triangle-exclamation"></i>
+                <h3>Impacto Crítico</h3>
+                <p>Verifique imediatamente se os sistemas da sua organização estão expostos às vulnerabilidades destacadas nos alertas acima.</p>
+            </div>
+            <div class="info-card">
+                <i class="fa-solid fa-book-shield"></i>
+                <h3>Boas Práticas</h3>
+                <p>Mantenha todos os sistemas atualizados com as últimas correções de segurança disponibilizadas pelos fornecedores.</p>
+            </div>
+            <div class="info-card">
+                <i class="fa-solid fa-headset"></i>
+                <h3>Suporte NCSIRT</h3>
+                <p>Em caso de dúvidas ou suspeita de comprometimento, contacte a nossa equipa de resposta a incidentes imediatamente.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container footer-content">
+            <div class="footer-logo">
+                <i class="fa-solid fa-shield-halved"></i>
+                <span>NCSIRT</span>
+            </div>
+            <p>&copy; 2026 National Cyber Security Incident Response Team. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Modal / Lightbox com zoom e scroll -->
+    <div id="imageModal" class="modal">
+        <div class="modal-toolbar">
+            <span id="zoomLabel" class="zoom-label">100%</span>
+            <button id="zoomInBtn" class="toolbar-btn" title="Zoom In"><i class="fa-solid fa-magnifying-glass-plus"></i></button>
+            <button id="zoomOutBtn" class="toolbar-btn" title="Zoom Out"><i class="fa-solid fa-magnifying-glass-minus"></i></button>
+            <button id="zoomResetBtn" class="toolbar-btn" title="Repor"><i class="fa-solid fa-expand"></i></button>
+            <div class="toolbar-divider"></div>
+            <button id="closeModalBtn" class="toolbar-btn close-btn" title="Fechar (Esc)"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <div class="modal-image-container" id="modalImageContainer">
+            <img id="fullImage" class="modal-content" draggable="false" alt="Alerta em ecrã inteiro">
+        </div>
+        <p class="modal-hint"><i class="fa-solid fa-scroll"></i> Roda do rato para zoom · Arrastar para mover · ESC para fechar</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
