@@ -1,0 +1,482 @@
+[
+  {
+    "data_curta": "2026-04-01",
+    "category": "darknet",
+    "quantidade": 546
+  },
+  {
+    "data_curta": "2026-04-01",
+    "category": "openresolvers",
+    "quantidade": 3
+  },
+  {
+    "data_curta": "2026-04-01",
+    "category": "scanner",
+    "quantidade": 226
+  },
+  {
+    "data_curta": "2026-04-02",
+    "category": "darknet",
+    "quantidade": 412
+  },
+  {
+    "data_curta": "2026-04-02",
+    "category": "openresolvers",
+    "quantidade": 9
+  },
+  {
+    "data_curta": "2026-04-02",
+    "category": "scanner",
+    "quantidade": 237
+  },
+  {
+    "data_curta": "2026-04-03",
+    "category": "darknet",
+    "quantidade": 620
+  },
+  {
+    "data_curta": "2026-04-03",
+    "category": "openresolvers",
+    "quantidade": 4
+  },
+  {
+    "data_curta": "2026-04-03",
+    "category": "scanner",
+    "quantidade": 250
+  },
+  {
+    "data_curta": "2026-04-04",
+    "category": "openresolvers",
+    "quantidade": 7
+  },
+  {
+    "data_curta": "2026-04-04",
+    "category": "scanner",
+    "quantidade": 195
+  },
+  {
+    "data_curta": "2026-04-04",
+    "category": "darknet",
+    "quantidade": 360
+  },
+  {
+    "data_curta": "2026-04-05",
+    "category": "darknet",
+    "quantidade": 353
+  },
+  {
+    "data_curta": "2026-04-05",
+    "category": "honeypot",
+    "quantidade": 2
+  },
+  {
+    "data_curta": "2026-04-05",
+    "category": "openresolvers",
+    "quantidade": 7
+  },
+  {
+    "data_curta": "2026-04-05",
+    "category": "scanner",
+    "quantidade": 169
+  },
+  {
+    "data_curta": "2026-04-06",
+    "category": "darknet",
+    "quantidade": 190
+  },
+  {
+    "data_curta": "2026-04-06",
+    "category": "openresolvers",
+    "quantidade": 5
+  },
+  {
+    "data_curta": "2026-04-06",
+    "category": "scanner",
+    "quantidade": 224
+  },
+  {
+    "data_curta": "2026-04-07",
+    "category": "darknet",
+    "quantidade": 213
+  },
+  {
+    "data_curta": "2026-04-07",
+    "category": "openresolvers",
+    "quantidade": 4
+  },
+  {
+    "data_curta": "2026-04-07",
+    "category": "scanner",
+    "quantidade": 182
+  },
+  {
+    "data_curta": "2026-04-08",
+    "category": "scanner",
+    "quantidade": 273
+  },
+  {
+    "data_curta": "2026-04-08",
+    "category": "openresolvers",
+    "quantidade": 6
+  },
+  {
+    "data_curta": "2026-04-08",
+    "category": "darknet",
+    "quantidade": 178
+  },
+  {
+    "data_curta": "2026-04-08",
+    "category": "honeypot",
+    "quantidade": 2
+  },
+  {
+    "data_curta": "2026-04-09",
+    "category": "darknet",
+    "quantidade": 171
+  },
+  {
+    "data_curta": "2026-04-09",
+    "category": "honeypot",
+    "quantidade": 5
+  },
+  {
+    "data_curta": "2026-04-09",
+    "category": "openresolvers",
+    "quantidade": 5
+  },
+  {
+    "data_curta": "2026-04-09",
+    "category": "scanner",
+    "quantidade": 223
+  },
+  {
+    "data_curta": "2026-04-10",
+    "category": "darknet",
+    "quantidade": 484
+  },
+  {
+    "data_curta": "2026-04-10",
+    "category": "openresolvers",
+    "quantidade": 3
+  },
+  {
+    "data_curta": "2026-04-10",
+    "category": "scanner",
+    "quantidade": 243
+  },
+  {
+    "data_curta": "2026-04-11",
+    "category": "scanner",
+    "quantidade": 231
+  },
+  {
+    "data_curta": "2026-04-11",
+    "category": "darknet",
+    "quantidade": 419
+  },
+  {
+    "data_curta": "2026-04-11",
+    "category": "openresolvers",
+    "quantidade": 2
+  },
+  {
+    "data_curta": "2026-04-12",
+    "category": "darknet",
+    "quantidade": 301
+  },
+  {
+    "data_curta": "2026-04-12",
+    "category": "openresolvers",
+    "quantidade": 4
+  },
+  {
+    "data_curta": "2026-04-12",
+    "category": "scanner",
+    "quantidade": 183
+  },
+  {
+    "data_curta": "2026-04-13",
+    "category": "scanner",
+    "quantidade": 192
+  },
+  {
+    "data_curta": "2026-04-13",
+    "category": "darknet",
+    "quantidade": 293
+  },
+  {
+    "data_curta": "2026-04-13",
+    "category": "openresolvers",
+    "quantidade": 6
+  },
+  {
+    "data_curta": "2026-04-14",
+    "category": "openresolvers",
+    "quantidade": 3
+  },
+  {
+    "data_curta": "2026-04-14",
+    "category": "scanner",
+    "quantidade": 182
+  },
+  {
+    "data_curta": "2026-04-14",
+    "category": "darknet",
+    "quantidade": 497
+  },
+  {
+    "data_curta": "2026-04-15",
+    "category": "openresolvers",
+    "quantidade": 4
+  },
+  {
+    "data_curta": "2026-04-15",
+    "category": "scanner",
+    "quantidade": 200
+  },
+  {
+    "data_curta": "2026-04-15",
+    "category": "darknet",
+    "quantidade": 348
+  },
+  {
+    "data_curta": "2026-04-16",
+    "category": "darknet",
+    "quantidade": 330
+  },
+  {
+    "data_curta": "2026-04-16",
+    "category": "scanner",
+    "quantidade": 209
+  },
+  {
+    "data_curta": "2026-04-17",
+    "category": "darknet",
+    "quantidade": 412
+  },
+  {
+    "data_curta": "2026-04-17",
+    "category": "openresolvers",
+    "quantidade": 5
+  },
+  {
+    "data_curta": "2026-04-17",
+    "category": "scanner",
+    "quantidade": 191
+  },
+  {
+    "data_curta": "2026-04-18",
+    "category": "darknet",
+    "quantidade": 312
+  },
+  {
+    "data_curta": "2026-04-18",
+    "category": "openresolvers",
+    "quantidade": 3
+  },
+  {
+    "data_curta": "2026-04-18",
+    "category": "scanner",
+    "quantidade": 212
+  },
+  {
+    "data_curta": "2026-04-19",
+    "category": "openresolvers",
+    "quantidade": 5
+  },
+  {
+    "data_curta": "2026-04-19",
+    "category": "scanner",
+    "quantidade": 165
+  },
+  {
+    "data_curta": "2026-04-19",
+    "category": "darknet",
+    "quantidade": 184
+  },
+  {
+    "data_curta": "2026-04-20",
+    "category": "darknet",
+    "quantidade": 562
+  },
+  {
+    "data_curta": "2026-04-20",
+    "category": "openresolvers",
+    "quantidade": 4
+  },
+  {
+    "data_curta": "2026-04-20",
+    "category": "scanner",
+    "quantidade": 197
+  },
+  {
+    "data_curta": "2026-04-21",
+    "category": "darknet",
+    "quantidade": 480
+  },
+  {
+    "data_curta": "2026-04-21",
+    "category": "honeypot",
+    "quantidade": 11
+  },
+  {
+    "data_curta": "2026-04-21",
+    "category": "openresolvers",
+    "quantidade": 10
+  },
+  {
+    "data_curta": "2026-04-21",
+    "category": "scanner",
+    "quantidade": 230
+  },
+  {
+    "data_curta": "2026-04-22",
+    "category": "scanner",
+    "quantidade": 195
+  },
+  {
+    "data_curta": "2026-04-22",
+    "category": "darknet",
+    "quantidade": 319
+  },
+  {
+    "data_curta": "2026-04-22",
+    "category": "openresolvers",
+    "quantidade": 7
+  },
+  {
+    "data_curta": "2026-04-23",
+    "category": "scanner",
+    "quantidade": 192
+  },
+  {
+    "data_curta": "2026-04-23",
+    "category": "darknet",
+    "quantidade": 439
+  },
+  {
+    "data_curta": "2026-04-23",
+    "category": "openresolvers",
+    "quantidade": 8
+  },
+  {
+    "data_curta": "2026-04-24",
+    "category": "darknet",
+    "quantidade": 186
+  },
+  {
+    "data_curta": "2026-04-24",
+    "category": "openresolvers",
+    "quantidade": 5
+  },
+  {
+    "data_curta": "2026-04-24",
+    "category": "scanner",
+    "quantidade": 197
+  },
+  {
+    "data_curta": "2026-04-25",
+    "category": "darknet",
+    "quantidade": 226
+  },
+  {
+    "data_curta": "2026-04-25",
+    "category": "openresolvers",
+    "quantidade": 1
+  },
+  {
+    "data_curta": "2026-04-25",
+    "category": "scanner",
+    "quantidade": 196
+  },
+  {
+    "data_curta": "2026-04-26",
+    "category": "scanner",
+    "quantidade": 242
+  },
+  {
+    "data_curta": "2026-04-26",
+    "category": "openresolvers",
+    "quantidade": 4
+  },
+  {
+    "data_curta": "2026-04-26",
+    "category": "darknet",
+    "quantidade": 531
+  },
+  {
+    "data_curta": "2026-04-26",
+    "category": "honeypot",
+    "quantidade": 4
+  },
+  {
+    "data_curta": "2026-04-27",
+    "category": "darknet",
+    "quantidade": 628
+  },
+  {
+    "data_curta": "2026-04-27",
+    "category": "openresolvers",
+    "quantidade": 5
+  },
+  {
+    "data_curta": "2026-04-27",
+    "category": "scanner",
+    "quantidade": 223
+  },
+  {
+    "data_curta": "2026-04-28",
+    "category": "openresolvers",
+    "quantidade": 5
+  },
+  {
+    "data_curta": "2026-04-28",
+    "category": "bruteforce",
+    "quantidade": 20
+  },
+  {
+    "data_curta": "2026-04-28",
+    "category": "darknet",
+    "quantidade": 593
+  },
+  {
+    "data_curta": "2026-04-28",
+    "category": "honeypot",
+    "quantidade": 1
+  },
+  {
+    "data_curta": "2026-04-28",
+    "category": "scanner",
+    "quantidade": 246
+  },
+  {
+    "data_curta": "2026-04-29",
+    "category": "openresolvers",
+    "quantidade": 6
+  },
+  {
+    "data_curta": "2026-04-29",
+    "category": "darknet",
+    "quantidade": 405
+  },
+  {
+    "data_curta": "2026-04-29",
+    "category": "scanner",
+    "quantidade": 239
+  },
+  {
+    "data_curta": "2026-04-30",
+    "category": "openresolvers",
+    "quantidade": 3
+  },
+  {
+    "data_curta": "2026-04-30",
+    "category": "darknet",
+    "quantidade": 468
+  },
+  {
+    "data_curta": "2026-04-30",
+    "category": "scanner",
+    "quantidade": 289
+  }
+]

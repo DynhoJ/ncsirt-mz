@@ -1,0 +1,302 @@
+[
+  {
+    "date": "1/4/2026",
+    "Intrusion Detection": "939.0",
+    "Anti-Spam": "67000.0",
+    "Mail Anti-Virus": "1438.0",
+    "On-Access Scan": "6157.0",
+    "On-Demand Scan": "4035.0",
+    "Ransomware": "12.0",
+    "Vulnerability Scan": "38.0"
+  },
+  {
+    "date": "2/4/2026",
+    "Intrusion Detection": "833.0",
+    "Anti-Spam": "39000.0",
+    "Mail Anti-Virus": "1364.0",
+    "On-Access Scan": "6037.0",
+    "On-Demand Scan": "4001.0",
+    "Ransomware": "23.0",
+    "Vulnerability Scan": "71.0"
+  },
+  {
+    "date": "3/4/2026",
+    "Intrusion Detection": "429.0",
+    "Anti-Spam": "30500.0",
+    "Mail Anti-Virus": "1349.0",
+    "On-Access Scan": "2412.0",
+    "On-Demand Scan": "1057.0",
+    "Ransomware": "6.0",
+    "Vulnerability Scan": "28.0"
+  },
+  {
+    "date": "4/4/2026",
+    "Intrusion Detection": "423.0",
+    "Anti-Spam": "33500.0",
+    "Mail Anti-Virus": "1432.0",
+    "On-Access Scan": "2150.0",
+    "On-Demand Scan": "1010.0",
+    "Ransomware": "1.0",
+    "Vulnerability Scan": "14.0"
+  },
+  {
+    "date": "5/4/2026",
+    "Intrusion Detection": "619.0",
+    "Anti-Spam": "45500.0",
+    "Mail Anti-Virus": "1438.0",
+    "On-Access Scan": "1940.0",
+    "On-Demand Scan": "752.0",
+    "Ransomware": "23.0",
+    "Vulnerability Scan": "14.0"
+  },
+  {
+    "date": "6/4/2026",
+    "Intrusion Detection": "611.0",
+    "Anti-Spam": "109500.0",
+    "Mail Anti-Virus": "1356.0",
+    "On-Access Scan": "5502.0",
+    "On-Demand Scan": "4093.0",
+    "Ransomware": "33.0",
+    "Vulnerability Scan": "73.0"
+  },
+  {
+    "date": "7/4/2026",
+    "Intrusion Detection": "452.0",
+    "Anti-Spam": "39500.0",
+    "Mail Anti-Virus": "215.0",
+    "On-Access Scan": "1834.0",
+    "On-Demand Scan": "1387.0",
+    "Ransomware": "1.0",
+    "Vulnerability Scan": "22.0"
+  },
+  {
+    "date": "8/4/2026",
+    "Intrusion Detection": "538.0",
+    "Anti-Spam": "142000.0",
+    "Mail Anti-Virus": "1242.0",
+    "On-Access Scan": "6142.0",
+    "On-Demand Scan": "4193.0",
+    "Ransomware": "328.0",
+    "Vulnerability Scan": "48.0"
+  },
+  {
+    "date": "9/4/2026",
+    "Intrusion Detection": "524.0",
+    "Anti-Spam": "123500.0",
+    "Mail Anti-Virus": "725.0",
+    "On-Access Scan": "6076.0",
+    "On-Demand Scan": "3828.0",
+    "Ransomware": "151.0",
+    "Vulnerability Scan": "50.0"
+  },
+  {
+    "date": "10/4/2026",
+    "Intrusion Detection": "540.0",
+    "Anti-Spam": "51500.0",
+    "Mail Anti-Virus": "1264.0",
+    "On-Access Scan": "6533.0",
+    "On-Demand Scan": "3881.0",
+    "Ransomware": "16.0",
+    "Vulnerability Scan": "62.0"
+  },
+  {
+    "date": "11/4/2026",
+    "Intrusion Detection": "545.0",
+    "Anti-Spam": "27500.0",
+    "Mail Anti-Virus": "1187.0",
+    "On-Access Scan": "2657.0",
+    "On-Demand Scan": "2148.0",
+    "Ransomware": "15.0",
+    "Vulnerability Scan": "21.0"
+  },
+  {
+    "date": "12/4/2026",
+    "Intrusion Detection": "474.0",
+    "Anti-Spam": "15000.0",
+    "Mail Anti-Virus": "1055.0",
+    "On-Access Scan": "1774.0",
+    "On-Demand Scan": "1598.0",
+    "Ransomware": "2.0",
+    "Vulnerability Scan": "24.0"
+  },
+  {
+    "date": "13/4/2026",
+    "Intrusion Detection": "454.0",
+    "Anti-Spam": "14500.0",
+    "Mail Anti-Virus": "2335.0",
+    "On-Access Scan": "6751.0",
+    "On-Demand Scan": "4423.0",
+    "Ransomware": "90.0",
+    "Vulnerability Scan": "73.0"
+  },
+  {
+    "date": "14/4/2026",
+    "Intrusion Detection": "399.0",
+    "Anti-Spam": "20000.0",
+    "Mail Anti-Virus": "2178.0",
+    "On-Access Scan": "6990.0",
+    "On-Demand Scan": "4199.0",
+    "Ransomware": "30.0",
+    "Vulnerability Scan": "53.0"
+  },
+  {
+    "date": "15/4/2026",
+    "Intrusion Detection": "648.0",
+    "Anti-Spam": "22500.0",
+    "Mail Anti-Virus": "2399.0",
+    "On-Access Scan": "7488.0",
+    "On-Demand Scan": "4141.0",
+    "Ransomware": "65.0",
+    "Vulnerability Scan": "35.0"
+  },
+  {
+    "date": "16/4/2026",
+    "Intrusion Detection": "830.0",
+    "Anti-Spam": "35000.0",
+    "Mail Anti-Virus": "2194.0",
+    "On-Access Scan": "7270.0",
+    "On-Demand Scan": "3429.0",
+    "Ransomware": "16.0",
+    "Vulnerability Scan": "58.0"
+  },
+  {
+    "date": "17/4/2026",
+    "Intrusion Detection": "773.0",
+    "Anti-Spam": "95000.0",
+    "Mail Anti-Virus": "2023.0",
+    "On-Access Scan": "6136.0",
+    "On-Demand Scan": "3749.0",
+    "Ransomware": "138.0",
+    "Vulnerability Scan": "51.0"
+  },
+  {
+    "date": "18/4/2026",
+    "Intrusion Detection": "750.0",
+    "Anti-Spam": "33000.0",
+    "Mail Anti-Virus": "1406.0",
+    "On-Access Scan": "2223.0",
+    "On-Demand Scan": "1124.0",
+    "Ransomware": "7.0",
+    "Vulnerability Scan": "65.0"
+  },
+  {
+    "date": "19/4/2026",
+    "Intrusion Detection": "766.0",
+    "Anti-Spam": "9500.0",
+    "Mail Anti-Virus": "1195.0",
+    "On-Access Scan": "1603.0",
+    "On-Demand Scan": "898.0",
+    "Ransomware": "0.0",
+    "Vulnerability Scan": "28.0"
+  },
+  {
+    "date": "20/4/2026",
+    "Intrusion Detection": "1086.0",
+    "Anti-Spam": "120000.0",
+    "Mail Anti-Virus": "2172.0",
+    "On-Access Scan": "6908.0",
+    "On-Demand Scan": "4462.0",
+    "Ransomware": "21.0",
+    "Vulnerability Scan": "90.0"
+  },
+  {
+    "date": "21/4/2026",
+    "Intrusion Detection": "964.0",
+    "Anti-Spam": "49500.0",
+    "Mail Anti-Virus": "2770.0",
+    "On-Access Scan": "6668.0",
+    "On-Demand Scan": "4370.0",
+    "Ransomware": "16.0",
+    "Vulnerability Scan": "64.0"
+  },
+  {
+    "date": "22/4/2026",
+    "Intrusion Detection": "890.0",
+    "Anti-Spam": "108000.0",
+    "Mail Anti-Virus": "2126.0",
+    "On-Access Scan": "6400.0",
+    "On-Demand Scan": "3705.0",
+    "Ransomware": "31.0",
+    "Vulnerability Scan": "84.0"
+  },
+  {
+    "date": "23/4/2026",
+    "Intrusion Detection": "909.0",
+    "Anti-Spam": "88500.0",
+    "Mail Anti-Virus": "2144.0",
+    "On-Access Scan": "6575.0",
+    "On-Demand Scan": "4848.0",
+    "Ransomware": "58.0",
+    "Vulnerability Scan": "64.0"
+  },
+  {
+    "date": "24/4/2026",
+    "Intrusion Detection": "498.0",
+    "Anti-Spam": "95000.0",
+    "Mail Anti-Virus": "2208.0",
+    "On-Access Scan": "5838.0",
+    "On-Demand Scan": "4235.0",
+    "Ransomware": "8.0",
+    "Vulnerability Scan": "53.0"
+  },
+  {
+    "date": "25/4/2026",
+    "Intrusion Detection": "599.0",
+    "Anti-Spam": "70500.0",
+    "Mail Anti-Virus": "1332.0",
+    "On-Access Scan": "2432.0",
+    "On-Demand Scan": "1135.0",
+    "Ransomware": "0.0",
+    "Vulnerability Scan": "55.0"
+  },
+  {
+    "date": "26/4/2026",
+    "Intrusion Detection": "493.0",
+    "Anti-Spam": "40000.0",
+    "Mail Anti-Virus": "1290.0",
+    "On-Access Scan": "1921.0",
+    "On-Demand Scan": "801.0",
+    "Ransomware": "0.0",
+    "Vulnerability Scan": "20.0"
+  },
+  {
+    "date": "27/4/2026",
+    "Intrusion Detection": "519.0",
+    "Anti-Spam": "172500.0",
+    "Mail Anti-Virus": "2098.0",
+    "On-Access Scan": "6333.0",
+    "On-Demand Scan": "3768.0",
+    "Ransomware": "6.0",
+    "Vulnerability Scan": "69.0"
+  },
+  {
+    "date": "28/4/2026",
+    "Intrusion Detection": "1007.0",
+    "Anti-Spam": "86500.0",
+    "Mail Anti-Virus": "2032.0",
+    "On-Access Scan": "6376.0",
+    "On-Demand Scan": "3245.0",
+    "Ransomware": "12.0",
+    "Vulnerability Scan": "95.0"
+  },
+  {
+    "date": "29/4/2026",
+    "Intrusion Detection": "729.0",
+    "Anti-Spam": "74000.0",
+    "Mail Anti-Virus": "2043.0",
+    "On-Access Scan": "5791.0",
+    "On-Demand Scan": "3165.0",
+    "Ransomware": "11.0",
+    "Vulnerability Scan": "68.0"
+  },
+  {
+    "date": "30/4/2026",
+    "Intrusion Detection": "759.0",
+    "Anti-Spam": "55000.0",
+    "Mail Anti-Virus": "2081.0",
+    "On-Access Scan": "6014.0",
+    "On-Demand Scan": "3773.0",
+    "Ransomware": "29.0",
+    "Vulnerability Scan": "82.0"
+  }
+]

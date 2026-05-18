@@ -1,0 +1,512 @@
+[
+  {
+    "infection": "android.hummer",
+    "total_src_ips": 29626,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "android.vo1d2",
+    "total_src_ips": 11531,
+    "total_dst_ips": 12
+  },
+  {
+    "infection": "android.badbox2",
+    "total_src_ips": 6087,
+    "total_dst_ips": 13
+  },
+  {
+    "infection": "m0yv",
+    "total_src_ips": 2780,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "expiro",
+    "total_src_ips": 2540,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "ipidea",
+    "total_src_ips": 1561,
+    "total_dst_ips": 13
+  },
+  {
+    "infection": "avalanche-andromeda",
+    "total_src_ips": 877,
+    "total_dst_ips": 12
+  },
+  {
+    "infection": "mirai",
+    "total_src_ips": 526,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "telnet-brute-force",
+    "total_src_ips": 269,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "vipersoftx",
+    "total_src_ips": 261,
+    "total_dst_ips": 2
+  },
+  {
+    "infection": "android.vo1d",
+    "total_src_ips": 261,
+    "total_dst_ips": 13
+  },
+  {
+    "infection": "worm.phorpiex",
+    "total_src_ips": 210,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "bondat",
+    "total_src_ips": 156,
+    "total_dst_ips": 13
+  },
+  {
+    "infection": "http-scan",
+    "total_src_ips": 106,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "ddos-participant",
+    "total_src_ips": 91,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "brute-force",
+    "total_src_ips": 48,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "pseudomanuscrypt",
+    "total_src_ips": 44,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "avalanche-ranbyus",
+    "total_src_ips": 35,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "vo1d",
+    "total_src_ips": 35,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "socks5systemz",
+    "total_src_ips": 31,
+    "total_dst_ips": 2
+  },
+  {
+    "infection": "avalanche-nymaim",
+    "total_src_ips": 25,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "smokeloader",
+    "total_src_ips": 25,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "android.rootnik",
+    "total_src_ips": 22,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "android.bakdoor.prizmes",
+    "total_src_ips": 21,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "nymaim",
+    "total_src_ips": 21,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "non-authoritative-whois",
+    "total_src_ips": 21,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": null,
+    "total_src_ips": 20,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-generic",
+    "total_src_ips": 20,
+    "total_dst_ips": 2
+  },
+  {
+    "infection": "necurs",
+    "total_src_ips": 20,
+    "total_dst_ips": 6
+  },
+  {
+    "infection": "ranbyus",
+    "total_src_ips": 19,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "modpack",
+    "total_src_ips": 19,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-panda-banker",
+    "total_src_ips": 18,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "matsnu",
+    "total_src_ips": 18,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "qsnatch",
+    "total_src_ips": 18,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-tiny-banker",
+    "total_src_ips": 17,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "tinynuke",
+    "total_src_ips": 17,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "smb-scan",
+    "total_src_ips": 16,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "avalanche-unknown",
+    "total_src_ips": 16,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "adload",
+    "total_src_ips": 15,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-matsnu",
+    "total_src_ips": 14,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "ngioweb",
+    "total_src_ips": 11,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "avalanche-goznym",
+    "total_src_ips": 11,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "infy",
+    "total_src_ips": 11,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "lumma-stealer-download",
+    "total_src_ips": 10,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "beebone",
+    "total_src_ips": 10,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-tinba",
+    "total_src_ips": 9,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "ssh-brute-force",
+    "total_src_ips": 7,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "alien",
+    "total_src_ips": 7,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "locky",
+    "total_src_ips": 6,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "spynote",
+    "total_src_ips": 5,
+    "total_dst_ips": 10
+  },
+  {
+    "infection": "xmrminer",
+    "total_src_ips": 5,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "sharkbot",
+    "total_src_ips": 5,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "likely-rat-wsh",
+    "total_src_ips": 5,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "likely-rat-orcus",
+    "total_src_ips": 5,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "avalanche-vmzeus",
+    "total_src_ips": 4,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "cryptolocker",
+    "total_src_ips": 4,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-rovnix",
+    "total_src_ips": 4,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "likely-rat-at",
+    "total_src_ips": 4,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "avalanche-corebot",
+    "total_src_ips": 4,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "tinba",
+    "total_src_ips": 4,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "wd",
+    "total_src_ips": 4,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-urlzone",
+    "total_src_ips": 4,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "gozi",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "urlzone",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "911-socks5-proxy",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "sality",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-xswkit",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "cobaltstrike",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "dragon-boss",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "likely-rat-firebird",
+    "total_src_ips": 3,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "likely-rat-netwire",
+    "total_src_ips": 3,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "padcrypt",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "likely-rat-remcos",
+    "total_src_ips": 3,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "virut",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "likely-rat-adwind",
+    "total_src_ips": 3,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "avalanche-teslacrypt",
+    "total_src_ips": 3,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "likely-rat-im",
+    "total_src_ips": 2,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "zeus",
+    "total_src_ips": 2,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "avalanche-citadel",
+    "total_src_ips": 2,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "nymaim2",
+    "total_src_ips": 2,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "giftedvisitor",
+    "total_src_ips": 2,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "rdp-scan",
+    "total_src_ips": 2,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "sality2",
+    "total_src_ips": 2,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "android.uupay",
+    "total_src_ips": 2,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "downadup",
+    "total_src_ips": 2,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "bumblebee",
+    "total_src_ips": 2,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "boaxxe",
+    "total_src_ips": 2,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "adb-scan",
+    "total_src_ips": 2,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "likely-rat-warzone",
+    "total_src_ips": 2,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "aisuru",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "tempedreve",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "rovnix",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "jdk-update-apt",
+    "total_src_ips": 1,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "torpig",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "Red October",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "pay2key",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "shiz",
+    "total_src_ips": 1,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "avalanche-bolek",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "mostere-rat",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "Spyeye",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  },
+  {
+    "infection": "ddos-amplification",
+    "total_src_ips": 1,
+    "total_dst_ips": 1
+  },
+  {
+    "infection": "emissary-panda",
+    "total_src_ips": 1,
+    "total_dst_ips": 0
+  }
+]
